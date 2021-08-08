@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CoreDaDev</h1>
-<h3 align="center">i</h3>
+<h3 align="center">MAKE SURE TO FORK AND GIVE MY WORK A STAR</h3>
 
 - 🔭 I’m currently working on **PocketMine Plugins**
 
